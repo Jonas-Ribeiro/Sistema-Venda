@@ -5,26 +5,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SistemaVenda.DAL;
-using SistemaVenda.Entidades;
 using SistemaVenda.Models;
 
 namespace SistemaVenda.Controllers
 {
     public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
-        public ApplicationDBContext Repositorio { get; set; }
-
-        //public HomeController(ILogger<HomeController> logger)
-        //{
-        //    _logger = logger;
-        //}
-
-        public HomeController(ApplicationDBContext repositorio)
-        {
-            Repositorio = repositorio;
-        }
+    {      
 
         public IActionResult Index()
         {

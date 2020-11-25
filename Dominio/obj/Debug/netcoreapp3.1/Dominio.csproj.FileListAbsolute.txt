@@ -1,0 +1,8 @@
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

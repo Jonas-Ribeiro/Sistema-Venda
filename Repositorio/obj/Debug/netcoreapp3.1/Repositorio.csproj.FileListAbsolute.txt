@@ -1,0 +1,12 @@
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csprojAssemblyReference.cache
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\jonas\Documents\GitHub\SistemaVenda\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb

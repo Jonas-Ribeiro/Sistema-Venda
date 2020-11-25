@@ -1,4 +1,25 @@
-﻿<!DOCTYPE html>
+﻿@using  Microsoft.AspNetCore.Http;
+
+@inject IHttpContextAccessor HttpContext;
+
+@{ 
+    int logado = 0;
+    string nomeUsuario = string.Empty;
+    try
+    {
+        logado =(int)HttpContext.HttpContext.Session.GetInt32(SistemaVenda.Helpers.Sessao.LOGADO);
+
+        if(logado == 1)
+        {
+            nomeUsuario = HttpContext.HttpContext.Session.GetString(SistemaVenda.Helpers.Sessao.NOME_USUARIO);
+        }
+    }
+    catch
+    {
+        HttpContext.HttpContext.Response.Redirect("/Login");
+    }
+}
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -24,7 +45,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Menu</a>
                     </ul>
                 </div>
-            </div>
+                <div>
+                    Olá @nomeUsuario <a href="~/Login/Index/0">sair</a>
+                </div>
+            </div>            
         </nav>
     </header>
     <div class="container">

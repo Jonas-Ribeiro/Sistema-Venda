@@ -24,9 +24,11 @@
     ".NETCoreApp,Version=v3.1": {
       "SistemaVenda/1.0.0": {
         "dependencies": {
+          "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.4",
+          "Repositorio": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -2163,6 +2165,26 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "Dominio/1.0.0": {
+        "runtime": {
+          "Dominio.dll": {}
+        },
+        "compile": {
+          "Dominio.dll": {}
+        }
+      },
+      "Repositorio/1.0.0": {
+        "dependencies": {
+          "Dominio": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.0"
+        },
+        "runtime": {
+          "Repositorio.dll": {}
+        },
+        "compile": {
+          "Repositorio.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4870,6 +4892,16 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
