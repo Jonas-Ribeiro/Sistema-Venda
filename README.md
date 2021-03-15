@@ -4,7 +4,7 @@
 
 I'm a backend developer since 2018, often improving my skills in .Net
 
-### SistemaVenda (Sale System)
+### Sistema Venda (Sale System)
 
 This repository is about a course that I did on Udemy, there I learned a design pattern called DDD (Domain Driven Design), some .net core features, Entity Framework and
 a cool javascript chart.
