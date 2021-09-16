@@ -11,7 +11,7 @@ a cool javascript chart.
 
 In this course I created a store web system, there you can register a customer, a product, product categories and sales. Also you can manage all this things.
 
-The code is in portuguese, but I'm working to traslate it to english :smile:    
+The code is in portuguese, but I'm working on to translate it to english :smile:    
 
 Feel free to contact me!
 
